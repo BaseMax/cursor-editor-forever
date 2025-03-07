@@ -8,10 +8,10 @@ A Bash script designed to reset the license of the Cursor editor, enabling exten
 
 To run the script, ensure the following tools are installed on your system:
 
+- **AppImage Tool** (ttps://github.com/AppImage/appimagetool/‍)
 - **Bash shell** (available by default on most Linux systems)
 - **`uuidgen`** (used to generate unique IDs)
 - **`jq`** (optional, but recommended for JSON manipulation in `storage.json`)
-- **AppImage Tool** (ttps://github.com/AppImage/appimagetool/‍)
 
 You can install these dependencies on Ubuntu or Debian-based systems with:
 
