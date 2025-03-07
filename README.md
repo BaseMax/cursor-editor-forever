@@ -44,13 +44,13 @@ Run the script with your Cursor AppImage path:
 
 Replace `/path/to/cursor.AppImage` with the actual path to your Cursor AppImage file.
 
-**Important: The script modifies the AppImage directly. It’s a good idea to back up your original AppImage before proceeding.**
+> Important: The script modifies the AppImage directly. It’s a good idea to back up your original AppImage before proceeding.
 
 ### What the Script Does
 
-- Updates telemetry IDs: Modifies the ~/.config/Cursor/User/globalStorage/storage.json file, resetting identifiers like machineId, macMachineId, devDeviceId, and sqmId.
-- Alters AppImage contents: Extracts the AppImage, edits specific JavaScript files to disable license checks, and repacks it with the changes.
-- Checks for Cursor process: Ensures the Cursor editor is not running during execution, pausing if necessary.
+- **Updates telemetry IDs:** Modifies the `~/.config/Cursor/User/globalStorage/storage.json` file, resetting identifiers like machineId, macMachineId, devDeviceId, and sqmId.
+- **Alters AppImage contents:** Extracts the AppImage, edits specific JavaScript files to disable license checks, and repacks it with the changes.
+- **Checks for Cursor process:** Ensures the Cursor editor is not running during execution, pausing if necessary.
 
 ### Disclaimer
 
