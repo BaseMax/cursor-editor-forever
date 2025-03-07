@@ -6,6 +6,8 @@ A Bash script designed to reset the license of the Cursor editor, enabling exten
 
 ### Prerequisites
 
+Download and install Cursor editor for Linux on https://www.cursor.com/downloads. (Link of the current version is `https://anysphere-binaries.s3.us-east-1.amazonaws.com/production/client/linux/x64/appimage/Cursor-0.46.10-7b3e0d45d4f952938dbd8e1e29c1b17003198481.deb.glibc2.25-x86_64.AppImage`)
+
 To run the script, ensure the following tools are installed on your system:
 
 - **AppImage Tool** (https://github.com/AppImage/appimagetool)
