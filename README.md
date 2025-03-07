@@ -32,13 +32,13 @@ cd cursor-editor-forever
 Make the script executable:
 
 ```bash
-chmod +x reset_cursor_license.sh
+chmod +x cursor-editor-forever.sh
 ```
 
 Run the script with your Cursor AppImage path:
 
 ```bash
-./reset_cursor_license.sh --appimage /path/to/cursor.AppImage
+./cursor-editor-forever.sh --appimage /path/to/cursor.AppImage
 ```
 
 Replace `/path/to/cursor.AppImage` with the actual path to your Cursor AppImage file.
