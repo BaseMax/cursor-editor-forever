@@ -2,20 +2,6 @@
 
 A Bash script designed to reset the license of the Cursor editor, enabling extended use by updating telemetry IDs and modifying the AppImage to bypass license checks.
 
----
-
-## Table of Contents
-
-- [Usage](#usage)
-  - [Prerequisites](#prerequisites)
-  - [Running the Script](#running-the-script)
-  - [What the Script Does](#what-the-script-does)
-- [Disclaimer](#disclaimer)
-- [License](#license)
-- [Contributing](#contributing)
-
----
-
 ## Usage
 
 ### Prerequisites
